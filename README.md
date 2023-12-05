@@ -2,4 +2,4 @@
 
 I wrote a js(with Jquery lib) script and json source for multiple language support.
 ----------------------------------------------------------------------------------
-Fatih IŞILGAN
+Mert Gündoğdu
